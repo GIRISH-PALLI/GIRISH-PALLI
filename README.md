@@ -128,3 +128,26 @@
 ---
 
 ## 🌱 Beyond the code
+---
+🏔️  Recharges at hill stations
+🌊  Chases waterfalls (literally)
+🦁  Wildlife sanctuary wanderer
+🌿  Believes the best debugging happens in nature
+📚  Curious about how the world works — systems, societies, everything
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palli-girish-kumar-38bbb2358/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:girishpalli2307@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/girishpalli/)
+
+![Profile views](https://komarev.com/ghpvc/?username=GIRISH-PALLI&color=00C896&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+<i>"The best error message is the one that never shows up." 🌿</i>
+</div>
