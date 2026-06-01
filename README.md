@@ -113,14 +113,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=GIRISH-PALLI&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
+| 🏆 Achievements | 📈 Coding |
+|---|---|
+| ⭐ 250+ DSA problems solved | 🐍 Python — AI/ML projects |
+| 🥇 LeetCode Top 15% | ☕ Java — Spring Boot, OOP |
+| 🎓 CGPA 9.5/10 | ⚛️ JavaScript — MERN Stack |
+| 🤖 3 Internships completed | 🔵 TypeScript — Frontend |
+| ☁️ AWS Cloud Club VP | 🟢 Node.js — Backend APIs |
 ---
 
 ## 🌱 Beyond the code
